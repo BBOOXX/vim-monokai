@@ -1,10 +1,10 @@
 # vim-monokai
 
-Monokai color scheme for Vim converted with [coloration](http://coloration.sickill.net) from Textmate theme with the same name.
+Monokai color scheme for Vim converted with [coloration](https://github.com/sickill/coloration) from Textmate theme with the same name.
 
 ## Screenshots
 
-![Monokai in Vim](https://cloud.github.com/downloads/sickill/vim-monokai/vim-monokai.png)
+![Monokai in Vim](https://i.imgur.com/NPX2MXM.png)
 
 
 ## Installation
